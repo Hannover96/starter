@@ -14,7 +14,7 @@ role: Researcher in Mathematics and Data Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Potsdam
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
