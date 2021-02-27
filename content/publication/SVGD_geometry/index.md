@@ -1,5 +1,5 @@
 ---
-title: "Stein variational gradient descent: many-particle and long-time asymptotics"
+title: "On the geometry of Stein variational gradient descent"
 authors:
 - N. Nüsken
 - D.R.M. Renger
