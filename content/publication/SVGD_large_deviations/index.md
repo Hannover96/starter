@@ -1,8 +1,8 @@
 ---
 title: "Stein variational gradient descent: many-particle and long-time asymptotics"
 authors:
-- admin
-- Robert Ford
+- N. Nüsken
+- D.R.M. Renger
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
