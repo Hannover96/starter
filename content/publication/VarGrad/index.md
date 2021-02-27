@@ -27,14 +27,14 @@ abstract: We analyse the properties of an unbiased gradient estimator of the ELB
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
-featured: true
+#tags:
+#- Source Themes
+#featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+- name: arxiv
+  url: https://arxiv.org/pdf/2010.10436.pdf
+url_pdf: https://proceedings.neurips.cc//paper/2020/file/9c22c0b51b3202246463e986c7e205df-Paper.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
