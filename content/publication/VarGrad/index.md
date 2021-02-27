@@ -23,8 +23,7 @@ publication: In *Source Themes Conference*
 publication_short: In *STC*
 
 abstract: We analyse the properties of an unbiased gradient estimator of the evidence lower
-bound (ELBO) for variational inference, based on the score function method with
-leave-one-out control variates. 
+bound
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
