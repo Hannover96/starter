@@ -100,7 +100,7 @@ address = {street = "Karl-Liebknecht-Str. 24-25", city = "D-14476 Potsdam OT Gol
 coordinates = {latitude = "52.406225530312994", longitude = "12.97541633675079"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+# directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
