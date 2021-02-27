@@ -30,8 +30,8 @@ education:
   - course: PhD in Mathematics
     institution: Imperial College London
     year: 2018
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: MSc in Mathematics
+    institution: Leibniz University Hannover
     year: 2009
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
