@@ -20,12 +20,7 @@ publication_types: ["3"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Bayesian inference problems require sampling or approximating high-dimensional probability distributions. The focus of this paper is on the recently introduced Stein variational gradient descent methodology, a class of algorithms that rely on iterated steepest
-descent steps with respect to a reproducing kernel Hilbert space norm. This construction leads to interacting particle systems, the mean-field limit of which is a gradient flow
-on the space of probability distributions equipped with a certain geometrical structure.
-We leverage this viewpoint to shed some light on the convergence properties of the algorithm, in particular addressing the problem of choosing a suitable positive definite kernel
-function. Our analysis leads us to considering certain nondifferentiable kernels with adjusted tails. We demonstrate significant performs gains of these in various numerical
-experiments
+abstract: Bayesian inference
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
