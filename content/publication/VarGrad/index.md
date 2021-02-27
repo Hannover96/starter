@@ -1,8 +1,11 @@
 ---
 title: "VarGrad: A Low-Variance Gradient Estimator for Variational Inference"
 authors:
-- admin
-- Robert Ford
+- L. Richter
+- A. Boustati
+- N. Nüsken
+- A. Akyildiz
+- F.J.R. Ruiz
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
