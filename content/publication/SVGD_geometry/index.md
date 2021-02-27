@@ -3,7 +3,7 @@ title: "On the geometry of Stein variational gradient descent"
 authors:
 - N. Nüsken
 - D.R.M. Renger
-date: "2021-02-25T00:00:00Z"
+date: "2019-02-25T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
