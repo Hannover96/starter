@@ -3,7 +3,7 @@ title: "Stein variational gradient descent: many-particle and long-time asymptot
 authors:
 - N. Nüsken
 - D.R.M. Renger
-date: "2013-07-01T00:00:00Z"
+date: "2021-25-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
