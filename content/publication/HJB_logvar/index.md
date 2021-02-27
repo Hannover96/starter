@@ -1,5 +1,5 @@
 ---
-title: "Solving high-dimensional Hamilton-Jacobi-Bellman PDEs using neural networks&#58; perspectives from the theory of controlled diffusions and measures on path space"
+title: "Solving high-dimensional Hamilton-Jacobi-Bellman PDEs using neural networks &#58; perspectives from the theory of controlled diffusions and measures on path space"
 authors:
 - N. Nüsken
 - L. Richter
