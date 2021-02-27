@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "VarGrad: A Low-Variance Gradient Estimator for Variational Inference"
 authors:
 - admin
 - Robert Ford
