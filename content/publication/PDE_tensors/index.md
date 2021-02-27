@@ -1,9 +1,10 @@
 ---
-title: "Solving high-dimensional Hamilton-Jacobi-Bellman PDEs using neural networks perspectives from the theory of controlled diffusions and measures on path space"
+title: "Solving high-dimensional parabolic PDEs using the tensor train format"
 authors:
-- N. Nüsken
 - L. Richter
-date: "2020-05-11T00:00:00Z"
+- L. Sallandt
+- N. Nüsken
+date: "2021-02-23T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +20,7 @@ publication_types: ["3"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Optimal control of diffusion processes is intimately connected to the problem of solving certain Hamilton-Jacobi-Bellman equations. Building on recent machine learning inspired approaches towards high-dimensional PDEs, we investigate the potential of iterative diffusion optimisation techniques, in particular considering applications in importance sampling and rare event simulation. The choice of an appropriate loss function being a central element in the algorithmic design, we develop a principled framework based on divergences between path measures, encompassing various existing methods. Motivated by connections to forward-backward SDEs, we propose and study the novel log-variance divergence, showing favourable properties of corresponding Monte Carlo estimators. The promise of the developed approach is exemplified by a range of high-dimensional and metastable numerical examples.
+abstract: High-dimensional partial differential equations (PDEs) are ubiquitous in economics, science and engineering. However, their numerical treatment poses formidable challenges since traditional gridbased methods tend to be frustrated by the curse of dimensionality. In this paper, we argue that tensor trains provide an appealing approximation framework for parabolic PDEs\: the combination of reformulations in terms of backward stochastic differential equations and regression-type methods in the tensor format holds the promise of leveraging latent low-rank structures enabling both compression and efficient computation. Following this paradigm, we develop novel iterative schemes, involving either explicit and fast or implicit and accurate updates. We demonstrate in a number of examples that our methods achieve a favorable trade-off between accuracy and computational efficiency in comparison with state-of-the-art neural network based approaches.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
