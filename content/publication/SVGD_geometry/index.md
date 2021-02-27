@@ -1,8 +1,9 @@
 ---
 title: "On the geometry of Stein variational gradient descent"
 authors:
+- A. Duncan
 - N. Nüsken
-- D.R.M. Renger
+- L. Szpruch
 date: "2019-02-25T00:00:00Z"
 doi: ""
 
@@ -19,7 +20,12 @@ publication_types: ["3"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Stein variational gradient descent (SVGD) refers to a class of methods for Bayesian inference based on interacting particle systems. In this paper, we consider the originally proposed deterministic, each of which representing one of the two main paradigms in Bayesian computational statistics$:$ *variational inference* and *Markov chain Monte Carlo*. As it turns out, these are tightly linked through a correspondence between gradient flow structures and large-deviation principles rooted in statistical physics. To expose this relationship, we develop the cotangent space construction for the Stein geometry, prove its basic properties, and determine the large-deviation functional governing the many-particle limit for the empirical measure. Moreover, we identify the *Stein-Fisher information* (or *kernelised Stein discrepancy*) as its leading order contribution in the long-time and many-particle regime in the sense of $\Gamma$-convergence, shedding some light on the  finite-particle properties of SVGD. Finally, we establish a comparison principle between the Stein-Fisher information and RKHS-norms that might be of independent interest.
+abstract: Bayesian inference problems require sampling or approximating high-dimensional probability distributions. The focus of this paper is on the recently introduced Stein variational gradient descent methodology, a class of algorithms that rely on iterated steepest
+descent steps with respect to a reproducing kernel Hilbert space norm. This construction leads to interacting particle systems, the mean-field limit of which is a gradient flow
+on the space of probability distributions equipped with a certain geometrical structure.
+We leverage this viewpoint to shed some light on the convergence properties of the algorithm, in particular addressing the problem of choosing a suitable positive definite kernel
+function. Our analysis leads us to considering certain nondifferentiable kernels with adjusted tails. We demonstrate significant performs gains of these in various numerical
+experiments
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
