@@ -23,7 +23,7 @@ abstract: We analyse the properties of an unbiased gradient estimator of the evi
 bound (ELBO) for variational inference, based on the score function method with
 leave-one-out control variates. We show that this gradient estimator can be obtained
 using a new loss, defined as the variance of the log-ratio between the exact posterior
-and the variational approximation, which we call the $log-variance loss$. Under
+and the variational approximation, which we call the log-variance loss. Under
 certain conditions, the gradient of the log-variance loss equals the gradient of the
 (negative) ELBO. We show theoretically that this gradient estimator, which we call
 VarGrad due to its connection to the log-variance loss, exhibits lower variance than
