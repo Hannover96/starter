@@ -1,10 +1,9 @@
 ---
-title: "On the geometry of Stein variational gradient descent"
+title: "Solving high-dimensional Hamilton-Jacobi-Bellman PDEs using neural networks: perspectives from the theory of controlled diffusions and measures on path space"
 authors:
-- A. Duncan
 - N. Nüsken
-- L. Szpruch
-date: "2019-12-02T00:00:00Z"
+- L. Richter
+date: "2020-05-11T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +19,7 @@ publication_types: ["3"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Bayesian inference problems require sampling or approximating high-dimensional probability distributions. The focus of this paper is on the recently introduced Stein variational gradient descent methodology, a class of algorithms that rely on iterated steepest descent steps with respect to a reproducing kernel Hilbert space norm. This construction leads to interacting particle systems, the mean-field limit of which is a gradient flow on the space of probability distributions equipped with a certain geometrical structure. We leverage this viewpoint to shed some light on the convergence properties of the algorithm, in particular addressing the problem of choosing a suitable positive definite kernel function. Our analysis leads us to considering certain nondifferentiable kernels with adjusted tails. We demonstrate significant performs gains of these in various numerical experiments.
+abstract: Optimal control of diffusion processes is intimately connected to the problem of solving certain Hamilton-Jacobi-Bellman equations. Building on recent machine learning inspired approaches towards high-dimensional PDEs, we investigate the potential of iterative diffusion optimisation techniques, in particular considering applications in importance sampling and rare event simulation. The choice of an appropriate loss function being a central element in the algorithmic design, we develop a principled framework based on divergences between path measures, encompassing various existing methods. Motivated by connections to forward-backward SDEs, we propose and study the novel log-variance divergence, showing favourable properties of corresponding Monte Carlo estimators. The promise of the developed approach is exemplified by a range of high-dimensional and metastable numerical examples.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -31,7 +30,7 @@ featured: false
 
 links:
 - name: arxiv
-  url: https://arxiv.org/pdf/1912.00894.pdf
+  url: https://arxiv.org/pdf/2005.05409.pdf
 #url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 #url_code: '#'
 #url_dataset: '#'
