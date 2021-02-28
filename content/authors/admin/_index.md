@@ -31,11 +31,11 @@ education:
     institution: Imperial College London
     year: 2018
   - course: MSc in Mathematics
-    institution: Leibniz University Hannover
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: Leibniz Universität Hannover
+    year: 2014
+  - course: BSc in Physics
+    institution: Leibniz Universität Hannover
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
