@@ -12,16 +12,14 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *SIAM Journal on Applied Dynamical Systems*
-publication_short: In *SIAM J. Appl. Dyn. Syst.*
+publication: PhD thesis
+publication_short: PhD thesis
 
 abstract: 	In this thesis we consider several topics related to the construction of optimal Markovian dynamics in the context of sampling from high-dimensional probability distributions. Firstly, we introduce and analyse Langevin samplers that consist of perturbations of the standard overdamped and underdamped Langevin dynamics. The perturbed dynamics is such that its invariant measure is the same as that of the unperturbed dynamics. We show that appropriate choices of the perturbations can lead to samplers that have improved properties, at least in terms of reducing the asymptotic variance. We present a detailed analysis of the new Langevin samplers for Gaussian target distributions. Our theoretical results are supported by numerical experiments with non-Gaussian target measures. Secondly, we present a general framework for the analysis and development of ensemble based methods, encompassing both diﬀusion and piecewise deterministic Markov processes. For many performance criteria of interest, including the asymptotic variance, the task of ﬁnding efficient couplings can be phrased in terms of problems related to the theory of optimal transportation. We investigate general structural properties, proving a singularity theorem that has both geometric and probabilistic interpretations. Moreover, we show that those problems can often be solved approximately and support our findings with numerical experiments. Addressing the convergence to equilibrium of coupled processes we furthermore derive a modiﬁed Poincaré inequality. Finally, under some conditions, we prove exponential ergodicity for the zigzag process using hypocoercivity techniques.
 
-
-Read More: https://epubs.siam.org/doi/abs/10.1137/19M1304891
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
