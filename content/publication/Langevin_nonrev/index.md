@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Stein variational gradient descent (SVGD) refers to a class of methods for Bayesian inference based on interacting particle systems. In this paper, we consider the originally proposed deterministic, each of which representing one of the two main paradigms in Bayesian computational statistics$:$ *variational inference* and *Markov chain Monte Carlo*. As it turns out, these are tightly linked through a correspondence between gradient flow structures and large-deviation principles rooted in statistical physics. To expose this relationship, we develop the cotangent space construction for the Stein geometry, prove its basic properties, and determine the large-deviation functional governing the many-particle limit for the empirical measure. Moreover, we identify the *Stein-Fisher information* (or *kernelised Stein discrepancy*) as its leading order contribution in the long-time and many-particle regime in the sense of $\Gamma$-convergence, shedding some light on the  finite-particle properties of SVGD. Finally, we establish a comparison principle between the Stein-Fisher information and RKHS-norms that might be of independent interest.
+abstract: In this paper we introduce and analyse Langevin samplers that consist of perturbations of the standard underdamped Langevin dynamics. The perturbed dynamics is such that its invariant measure is the same as that of the unperturbed dynamics. We show that appropriate choices of the perturbations can lead to samplers that have improved properties, at least in terms of reducing the asymptotic variance. We present a detailed analysis of the new Langevin sampler for Gaussian target distributions. Our theoretical results are supported by numerical experiments with non-Gaussian target measures.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -31,8 +31,8 @@ featured: false
 
 links:
 - name: arxiv
-  url: https://arxiv.org/pdf/2102.12956.pdf
-#url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+  url: https://arxiv.org/pdf/1705.00170.pdf
+url_pdf: https://link.springer.com/article/10.1007/s10955-017-1906-8
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
