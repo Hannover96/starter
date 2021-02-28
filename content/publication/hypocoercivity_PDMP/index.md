@@ -5,7 +5,7 @@ authors:
 - A. Durmus
 - N. Nüsken
 - J. Roussel
-date: "2019-02-2811T00:00:00Z"
+date: "2019-02-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
