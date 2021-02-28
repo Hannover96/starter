@@ -17,8 +17,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *Journal of Statistical Physics*
+publication_short: In *J. Stat. Phys.*
 
 abstract: In this paper we introduce and analyse Langevin samplers that consist of perturbations of the standard underdamped Langevin dynamics. The perturbed dynamics is such that its invariant measure is the same as that of the unperturbed dynamics. We show that appropriate choices of the perturbations can lead to samplers that have improved properties, at least in terms of reducing the asymptotic variance. We present a detailed analysis of the new Langevin sampler for Gaussian target distributions. Our theoretical results are supported by numerical experiments with non-Gaussian target measures.
 
