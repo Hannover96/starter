@@ -16,8 +16,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *SIAM Journal on Applied Dynamical Systems*
-publication_short: In *SIAM J. Appl. Dyn. Syst.*
+publication: (unpublished)
+publication_short: (unpublished)
 
 abstract: An interacting system of Langevin dynamics driven particles has been proposed for sampling from a given posterior density by Garbuno-Inigo, Hoffmann, Li and Stuart in *Interacting Langevin Diffusions; Gradient Structure and Ensemble Kalman Sampler (arXiv:1903:08866v2)*. The proposed formulation is primarily studied from a formal mean-field limit perspective, while the theoretical behaviour under a finite particle size is left as an open problem. In this note we demonstrate that the particle-based covariance interaction term requires a non-trivial correction. We also show that the corrected dynamics samples exactly from the desired posterior provided that the empirical covariance matrix of the particle system remains non-singular and the posterior log-density satisfies the standard Bakry-Emery criterion.
 
