@@ -21,8 +21,8 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
+- Bayesian inference
+- PDEs and stochastic analysis for interacting particle systems
 - Information Retrieval
 
 education:
