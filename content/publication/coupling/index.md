@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *SIAM Journal of Unvertainty Quantification*
+publication: In *SIAM Journal of Uncertainty Quantification*
 publication_short: In *SIAM UQ*
 
 abstract: In this paper we develop a general framework for constructing and analyzing coupled Markov chain Monte Carlo samplers, allowing for both (possibly degenerate) diffusion and piecewise deterministic Markov processes. For many performance criteria of interest, including the asymptotic variance, the task of finding efficient couplings can be phrased in terms of problems related to optimal transport theory. We investigate general structural properties, proving a singularity theorem that has both geometric and probabilistic interpretations. Moreover, we show that those problems can often be solved approximately and support our findings with numerical experiments. For the particular objective of estimating the variance of a Bayesian posterior, our analysis suggests using novel techniques in the spirit of antithetic variates. Addressing the convergence to equilibrium of coupled processes we furthermore derive a modified Poincaré inequality.
