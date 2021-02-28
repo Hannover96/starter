@@ -16,10 +16,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Statistical Physics*
-publication_short: In *J. Stat. Phys.*
+publication: In *SIAM Journal of Unvertainty Quantification*
+publication_short: In *SIAM UQ*
 
-abstract: In this paper we introduce and analyse Langevin samplers that consist of perturbations of the standard underdamped Langevin dynamics. The perturbed dynamics is such that its invariant measure is the same as that of the unperturbed dynamics. We show that appropriate choices of the perturbations can lead to samplers that have improved properties, at least in terms of reducing the asymptotic variance. We present a detailed analysis of the new Langevin sampler for Gaussian target distributions. Our theoretical results are supported by numerical experiments with non-Gaussian target measures.
+abstract: In this paper we develop a general framework for constructing and analyzing coupled Markov chain Monte Carlo samplers, allowing for both (possibly degenerate) diffusion and piecewise deterministic Markov processes. For many performance criteria of interest, including the asymptotic variance, the task of finding efficient couplings can be phrased in terms of problems related to optimal transport theory. We investigate general structural properties, proving a singularity theorem that has both geometric and probabilistic interpretations. Moreover, we show that those problems can often be solved approximately and support our findings with numerical experiments. For the particular objective of estimating the variance of a Bayesian posterior, our analysis suggests using novel techniques in the spirit of antithetic variates. Addressing the convergence to equilibrium of coupled processes we furthermore derive a modified Poincaré inequality.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -30,8 +30,8 @@ featured: false
 
 links:
 - name: arxiv
-  url: https://arxiv.org/pdf/1705.00170.pdf
-url_pdf: https://link.springer.com/article/10.1007/s10955-017-1906-8
+  url: https://arxiv.org/pdf/1806.11026.pdf
+url_pdf: http://wwwf.imperial.ac.uk/~pavl/NuskenPavliotis2018.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
