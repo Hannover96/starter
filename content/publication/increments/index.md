@@ -31,8 +31,8 @@ featured: false
 
 links:
 - name: arxiv
-  url: https://arxiv.org/pdf/1912.02859.pdf
-url_pdf: https://epubs.siam.org/doi/pdf/10.1137/19M1304891
+  url: https://arxiv.org/pdf/1903.10717.pdf
+url_pdf: https://www.mdpi.com/1099-4300/21/5/505/htm
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
