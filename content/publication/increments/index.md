@@ -4,7 +4,7 @@ authors:
 - N. Nüsken
 - S. Reich
 - P. Rozdeba
-date: "2020-04-29T00:00:00Z"
+date: "2019-05-14T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,8 +17,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *SIAM Journal on Applied Dynamical Systems*
-publication_short: In *SIAM J. Appl. Dyn. Syst.*
+publication: In *Entropy, Special Issue Information Theory and Stochastics for Multiscale Nonlinear Systems*
+publication_short: In *Entropy*
 
 abstract: The success of the ensemble Kalman filter has triggered a strong interest in expanding its scope beyond classical state estimation problems. In this paper, we focus on continuous-time data assimilation where the model and measurement errors are correlated and both states and parameters need to be identified. Such scenarios arise from noisy and partial observations of Lagrangian particles which move under a stochastic velocity field involving unknown parameters. We take an appropriate class of McKean-Vlasov equations as the starting point to derive ensemble Kalman-Bucy filter algorithms for combined state and parameter estimation. We demonstrate their performance through a series of increasingly complex multi-scale model systems.
 
