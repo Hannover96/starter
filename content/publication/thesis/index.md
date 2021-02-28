@@ -5,8 +5,6 @@ authors:
 date: "2018-05-01T00:00:00Z"
 doi: ""
 
-weight: 100
-
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
 
@@ -31,9 +29,7 @@ tags:
 featured: false
 
 links:
-- name: arxiv
-  url: https://arxiv.org/pdf/1912.02859.pdf
-url_pdf: https://epubs.siam.org/doi/pdf/10.1137/19M1304891
+url_pdf: https://spiral.imperial.ac.uk/handle/10044/1/63868
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
