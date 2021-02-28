@@ -15,7 +15,7 @@ role: Researcher in Data Science and Mathematics
 # Organizations/Affiliations
 organizations:
 - name: University of Potsdam
-  url: "mailto:your-email@example.com"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -42,10 +42,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:nuesken@uni-potsdam.de'  # For a direct email link, use "mailto:test@example.org".
-- icon: 'mailto:nuesken@uni-potsdam.de'
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:nuesken@uni-potsdam.de'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
