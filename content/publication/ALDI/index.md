@@ -17,8 +17,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Statistical Physics*
-publication_short: In *J. Stat. Phys.*
+publication: In *SIAM Journal on Applied Dynamical Systems*
+publication_short: In *SIAM J. Appl. Dyn. Syst.*
 
 abstract: We propose a computational method (with acronym ALDI) for sampling from a given target distribution based on first-order (overdamped) Langevin dynamics which satisfies the property of affine invariance. The central idea of ALDI is to run an ensemble of particles with their empirical covariance serving as a preconditioner for their underlying Langevin dynamics. ALDI does not require taking the inverse or square root of the empirical covariance matrix, which enables application to high-dimensional sampling problems. The theoretical properties of ALDI are studied in terms of nondegeneracy and ergodicity. Furthermore, we study its connections to diffusion on Riemannian manifolds and Wasserstein gradient flows. Bayesian inference serves as a main application area for ALDI. In case of a forward problem with additive Gaussian measurement errors, ALDI allows for a gradient-free approximation in the spirit of the ensemble Kalman filter. A computational comparison between gradient-free and gradient-based ALDI is provided for a PDE constrained Bayesian inverse problem.
 
