@@ -5,6 +5,8 @@ authors:
 date: "2018-05-01T00:00:00Z"
 doi: ""
 
+weight = 100
+
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
 
