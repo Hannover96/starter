@@ -15,7 +15,7 @@ role: Researcher in Data Science and Mathematics
 # Organizations/Affiliations
 organizations:
 - name: University of Potsdam
-  url: ""
+  url: "mailto:your-email@example.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
