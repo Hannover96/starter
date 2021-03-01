@@ -23,6 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Bayesian inference
 - PDEs and stochastic analysis for interacting particle systems
+- Optimal control and optimal transport
 - Kernel methods
 
 education:
