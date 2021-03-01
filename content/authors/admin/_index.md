@@ -73,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher in the [CRC 1114: Scaling Cascades in Complex Systems](https://www.mi.fu-berlin.de/en/sfb1114/index.html).
+I am a postdoctoral researcher in the [CRC 1114: Scaling Cascades in Complex Systems](https://www.mi.fu-berlin.de/en/sfb1114/index.html), working the research group [Numerical Analysis](https://www.math.uni-potsdam.de/professuren/numerische-mathematik) at the University of Potsdam led by [Prof. Sebastian Reich](https://www.math.uni-potsdam.de/~sreich/).
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
