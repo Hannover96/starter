@@ -46,12 +46,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:nuesken@uni-potsdam.de'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=19r6EoYAAAAJ
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GeorgeCushen
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?hl=en&user=19r6EoYAAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
