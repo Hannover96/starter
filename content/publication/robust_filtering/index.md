@@ -22,14 +22,7 @@ publication_types: ["3"]
 publication: (submitted)
 publication_short: (submitted)
 
-abstract: Motivated by the challenge of incorporating data into misspecified and multiscale dynamical models, we
-study a McKean-Vlasov equation that contains the data stream as a common driving rough path. This setting
-allows us to prove well-posedness as well as continuity with respect to the driver in an appropriate rough-path
-topology. The latter property is key in our subsequent development of a robust data assimilation methodology.
-We establish propagation of chaos for the associated interacting particle system, which in turn is suggestive of
-a numerical scheme that can be viewed as an extension of the ensemble Kalman filter to a rough-path framework. Finally, we discuss a data-driven method based on subsampling to construct suitable rough path lifts and
-demonstrate the robustness of our scheme in a number of numerical experiments related to parameter estimation
-problems in multiscale contexts.
+abstract: Motivated by the challenge of incorporating data into misspecified and multiscale dynamical models, we study a McKean-Vlasov equation that contains the data stream as a common driving rough path. This setting allows us to prove well-posedness as well as continuity with respect to the driver in an appropriate roug h path topology. The latter property is key in our subsequent development of a robust data assimilation methodology. We establish propagation of chaos for the associated interacting particle system, which in turn is suggestive of a numerical scheme that can be viewed as an extension of the ensemble Kalman filter to a rough-path framework. Finally, we discuss a data-driven method based on subsampling to construct suitable rough path lifts and demonstrate the robustness of our scheme in a number of numerical experiments related to parameter estimation problems in multiscale contexts.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
