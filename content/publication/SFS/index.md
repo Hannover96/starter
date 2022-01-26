@@ -23,7 +23,7 @@ publication_types: ["3"]
 publication: In *SIAM Journal on Applied Dynamical Systems*
 publication_short: In *SIAM J. Appl. Dyn. Syst.*
 
-abstract: Test
+abstract: In this work we explore a new framework for approximate Bayesian inference in large datasets based on stochastic control. We advocate stochastic control as a finite time and low variance alternative to popular steady-state methods such as stochastic gradient Langevin dynamics (SGLD). Furthermore, we discuss and adapt the existing theoretical guarantees of this framework and establish connections to already existing VI routines in SDE-based models.
 
 
 Read More: https://epubs.siam.org/doi/abs/10.1137/19M1304891
