@@ -1,5 +1,5 @@
 ---
-title: "Bayesian Learning via Neural Schr{\"o}dinger-F{\"o}llmer Flows"
+title: "Bayesian Learning via Neural Schrödinger-Föllmer Flows"
 authors:
 - A. Garbuno-Inigo
 - N. Nüsken
