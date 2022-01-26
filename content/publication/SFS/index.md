@@ -1,9 +1,12 @@
 ---
 title: "Bayesian Learning via Neural Schrödinger-Föllmer Flows"
 authors:
-- A. Garbuno-Inigo
+- F. Vargas
+- A. Ovsianas
+- D. Fernandes
+- M. Girolami
+- N. D. Lawrence
 - N. Nüsken
-- S. Reich
 date: "2020-04-29T00:00:00Z"
 doi: ""
 
