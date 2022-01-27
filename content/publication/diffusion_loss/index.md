@@ -3,7 +3,7 @@ title: "Interpolating between BSDEs and PINNs--deep learning for elliptic and pa
 authors:
 - N. Nüsken
 - L. Richter
-date: "2021-02-25T00:00:00Z"
+date: "2021-12-08T00:00:00Z"
 doi: ""
 
 show_related: false
