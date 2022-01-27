@@ -1,5 +1,5 @@
 ---
-title: "Interpolating between BSDEs and PINNs--deep learning for elliptic and parabolic boundary value problems"
+title: "Interpolating between BSDEs and PINNs – deep learning for elliptic and parabolic boundary value problems"
 authors:
 - N. Nüsken
 - L. Richter
