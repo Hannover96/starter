@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Researcher in Data Science and Mathematics
+role: Lecturer in Mathematical Data Science
 
 # Organizations/Affiliations
 organizations:
-- name: University of Potsdam
-  url: ""
+- name: King's College London
+  url: "https://www.kcl.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
