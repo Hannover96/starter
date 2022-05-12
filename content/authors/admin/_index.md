@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer (Assistant Professor) in Mathematical Data Science
+role: Lecturer (Assistant Professor) Mathematical Data Science
 
 # Organizations/Affiliations
 organizations:
@@ -58,7 +58,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "nuesken@uni-potsdam.de"  # For a direct email link, use "mailto:test@example.org".
+  link: "nikolas.nusken@kcl.ac.uk"  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
