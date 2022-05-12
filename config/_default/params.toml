@@ -93,7 +93,9 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Karl-Liebknecht-Str. 24-25", city = "D-14476 Potsdam OT Golm", country="Germany"} #, region = "CA", postcode = "94305", country = "United States", country_code = "US"}
+address = {street = "Strand Campus, Strand", city = "London", country="UK"} #, region = "CA", postcode = "WC2R 2LS", country = "United Kingdom", country_code = "GB"}
+
+#Strand Campus, Strand, London, WC2R 2LS Room S4.15
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
