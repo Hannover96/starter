@@ -88,9 +88,7 @@ highlight_name: false
 user_groups:
 - Researchers
 - Visitors
----
-
-# I am a postdoctoral researcher in the [CRC 1114: Scaling Cascades in Complex Systems](https://www.mi.fu-berlin.de/en/sfb1114/index.html), working in the # research group [Numerical Analysis](https://www.math.uni-potsdam.de/professuren/numerische-mathematik) at the University of Potsdam led by [Prof. # Sebastian Reich](https://www.math.uni-potsdam.de/~sreich/). I am also associated to the [CRC 1294: Data Assimilation](https://www.sfb1294.de/). 
+--- 
 
 I am a lecturer in the Maths Department at King's College London.
 
