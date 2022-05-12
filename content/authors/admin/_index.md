@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer in Mathematical Data Science
+role: Lecturer (Assistant Professor) in Mathematical Data Science
 
 # Organizations/Affiliations
 organizations:
