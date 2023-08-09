@@ -1,10 +1,9 @@
 ---
-title: "From continuous-time formulations to discretization schemes: tensor trains and robust regression for BSDEs and parabolic PDEs"
+title: "Note on Interacting Langevin Diffusions: Gradient Structure and Ensemble Kalman Sampler by Garbuno-Inigo, Hoffmann, Li and Stuart"
 authors:
-- L. Richter
-- L. Sallandt
 - N. Nüsken
-date: "2019-08-28T00:00:00Z"
+- S. Reich
+date: "2023-07-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,10 +16,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: (submitted)
-publication_short: (submitted)
+publication: (unpublished)
+publication_short: (unpublished)
 
-abstract: Test
+abstract: An interacting system of Langevin dynamics driven particles has been proposed for sampling from a given posterior density by Garbuno-Inigo, Hoffmann, Li and Stuart in *Interacting Langevin Diffusions; Gradient Structure and Ensemble Kalman Sampler (arXiv:1903:08866v2)*. The proposed formulation is primarily studied from a formal mean-field limit perspective, while the theoretical behaviour under a finite particle size is left as an open problem. In this note we demonstrate that the particle-based covariance interaction term requires a non-trivial correction. We also show that the corrected dynamics samples exactly from the desired posterior provided that the empirical covariance matrix of the particle system remains non-singular and the posterior log-density satisfies the standard Bakry-Emery criterion.
 
 
 Read More: https://epubs.siam.org/doi/abs/10.1137/19M1304891
