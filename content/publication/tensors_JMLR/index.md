@@ -4,7 +4,7 @@ authors:
 - L. Richter
 - L. Sallandt
 - N. Nüsken
-date: "2023-07-28T00:00:00Z"
+date: "2019-08-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,6 +22,9 @@ publication_short: (submitted)
 
 abstract: 
 
+
+Read More: https://epubs.siam.org/doi/abs/10.1137/19M1304891
+
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -31,8 +34,8 @@ featured: false
 
 links:
 - name: arxiv
-  url: https://arxiv.org/pdf/2307.15496.pdf
-#url_pdf: https://link.springer.com/article/10.1007/s11222-022-10172-5
+  url: https://arxiv.org/pdf/1908.10890.pdf
+#url_pdf: https://epubs.siam.org/doi/pdf/10.1137/19M1304891
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
