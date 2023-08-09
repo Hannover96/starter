@@ -32,8 +32,8 @@ featured: false
 
 links:
 - name: arxiv
-url: https://arxiv.org/pdf/2112.03749.pdf
-  url_pdf: https://www.jml.pub/intro/article_detail/jml/21512.html
+  url: https://arxiv.org/pdf/2112.03749.pdf
+url_pdf: https://www.jml.pub/intro/article_detail/jml/21512.html
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
