@@ -5,7 +5,7 @@ authors:
 - A. Durmus
 - N. Nüsken
 - J. Roussel
-date: "2019-02-28T00:00:00Z"
+date: "2021-10-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -15,11 +15,11 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: (submitted)
-publication_short: (submitted)
+publication: In *Annals of Applied Probability*
+publication_short: In *AAP*
 
 abstract: In this work, we establish $L^2$-exponential convergence for a broad class of Piecewise Deterministic Markov Processes recently proposed in the context of Markov Process Monte Carlo methods and covering in particular the Randomized Hamiltonian Monte Carlo, the Zig-Zag process and the Bouncy Particle Sampler. The kernel of the symmetric part of the generator of such processes is non-trivial, and we follow the ideas recently introduced by (Dolbeault et al., 2009, 2015) to develop a rigorous framework for hypocoercivity in a fairly general and unifying set-up, while deriving tractable estimates of the constants involved in terms of the parameters of the dynamics. As a by-product we characterize the scaling properties of these algorithms with respect to the dimension of classes of problems, therefore providing some theoretical evidence to support their practical relevance.
 
@@ -33,7 +33,7 @@ featured: false
 links:
 - name: arxiv
   url: https://arxiv.org/pdf/1808.08592.pdf
-#url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://projecteuclid.org/journals/annals-of-applied-probability/volume-31/issue-5/Hypocoercivity-of-piecewise-deterministic-Markov-process-Monte-Carlo/10.1214/20-AAP1653.short
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
