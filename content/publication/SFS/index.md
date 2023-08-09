@@ -38,7 +38,7 @@ featured: false
 links:
 - name: arxiv
   url: https://arxiv.org/pdf/2111.10510.pdf
-#url_pdf: https://epubs.siam.org/doi/pdf/10.1137/19M1304891
+url_pdf: https://link.springer.com/article/10.1007/s11222-022-10172-5
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
