@@ -3,7 +3,7 @@ title: "Stein variational gradient descent: many-particle and long-time asymptot
 authors:
 - N. Nüsken
 - D.R.M. Renger
-date: "2021-02-25T00:00:00Z"
+date: "2022-12-01T00:00:00Z"
 doi: ""
 
 show_related: false
@@ -15,11 +15,11 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: (submitted)
-publication_short: (submitted)
+publication: In *Foundations of Data Science*
+publication_short: In *FoDS*
 
 abstract: Stein variational gradient descent (SVGD) refers to a class of methods for Bayesian inference based on interacting particle systems. In this paper, we consider the originally proposed deterministic, each of which representing one of the two main paradigms in Bayesian computational statistics$:$ *variational inference* and *Markov chain Monte Carlo*. As it turns out, these are tightly linked through a correspondence between gradient flow structures and large-deviation principles rooted in statistical physics. To expose this relationship, we develop the cotangent space construction for the Stein geometry, prove its basic properties, and determine the large-deviation functional governing the many-particle limit for the empirical measure. Moreover, we identify the *Stein-Fisher information* (or *kernelised Stein discrepancy*) as its leading order contribution in the long-time and many-particle regime in the sense of $\Gamma$-convergence, shedding some light on the  finite-particle properties of SVGD. Finally, we establish a comparison principle between the Stein-Fisher information and RKHS-norms that might be of independent interest.
 
