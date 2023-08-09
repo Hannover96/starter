@@ -18,8 +18,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Lecture Notes*
-publication_short: In *Lecture Notes*
+publication: *Lecture Notes*
+publication_short: *Lecture Notes*
 
 abstract: Lecture notes for a PhD-level course at the London Taught Course Centre.
 
@@ -33,9 +33,9 @@ tags:
 featured: false
 
 links:
-- name: arxiv
-  url: https://arxiv.org/pdf/2111.10510.pdf
-url_pdf: https://link.springer.com/article/10.1007/s11222-022-10172-5
+#- name: arxiv
+#  url: https://arxiv.org/pdf/2111.10510.pdf
+url_pdf: http://www.ltcc.ac.uk/media/london-taught-course-centre/LTCC_kernel_notes.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
