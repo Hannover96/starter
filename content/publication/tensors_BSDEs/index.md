@@ -3,6 +3,7 @@ title: "From continuous-time formulations to discretization schemes: tensor trai
 authors:
 - L. Richter
 - L. Sallandt
+- N. Nüsken
 date: "2023-07-28T00:00:00Z"
 doi: ""
 
