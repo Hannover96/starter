@@ -90,6 +90,6 @@ user_groups:
 - Visitors
 --- 
 
-Test I am a lecturer in the Maths Department at King's College London.
+I am a lecturer (assistant professor) in the Maths Department at King's College London.
 
 My research interests lie at the interface of computational statistics, machine learning, and the mathematics of stochastic dynamics and interacting particle systems.
