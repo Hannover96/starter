@@ -34,6 +34,7 @@ featured: false
 
 links:
 #- name: arxiv
+-name: pdf
 #  url: https://arxiv.org/pdf/2111.10510.pdf
 url_pdf: http://www.ltcc.ac.uk/media/london-taught-course-centre/LTCC_kernel_notes.pdf
 #url_code: '#'
