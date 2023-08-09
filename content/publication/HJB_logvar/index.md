@@ -31,7 +31,7 @@ featured: false
 links:
 - name: arxiv
   url: https://arxiv.org/pdf/2005.05409.pdf
-#url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://link.springer.com/article/10.1007/s42985-021-00102-x
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
