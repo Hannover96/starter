@@ -3,7 +3,7 @@ title: "Solving high-dimensional Hamilton-Jacobi-Bellman PDEs using neural netwo
 authors:
 - N. Nüsken
 - L. Richter
-date: "2020-05-11T00:00:00Z"
+date: "2021-06-21T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,11 +13,11 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: (submitted)
-publication_short: (submitted)
+publication: In *Partial Differential Equations and Applications*
+publication_short: In *PDEA*
 
 abstract: Optimal control of diffusion processes is intimately connected to the problem of solving certain Hamilton-Jacobi-Bellman equations. Building on recent machine learning inspired approaches towards high-dimensional PDEs, we investigate the potential of iterative diffusion optimisation techniques, in particular considering applications in importance sampling and rare event simulation. The choice of an appropriate loss function being a central element in the algorithmic design, we develop a principled framework based on divergences between path measures, encompassing various existing methods. Motivated by connections to forward-backward SDEs, we propose and study the novel log-variance divergence, showing favourable properties of corresponding Monte Carlo estimators. The promise of the developed approach is exemplified by a range of high-dimensional and metastable numerical examples.
 
