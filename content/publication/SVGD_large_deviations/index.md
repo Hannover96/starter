@@ -33,7 +33,7 @@ featured: false
 links:
 - name: arxiv
   url: https://arxiv.org/pdf/2102.12956.pdf
-#url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://www.aimsciences.org/article/doi/10.3934/fods.2022023
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
