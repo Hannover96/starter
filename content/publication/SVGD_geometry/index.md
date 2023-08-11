@@ -4,7 +4,7 @@ authors:
 - A. Duncan
 - N. Nüsken
 - L. Szpruch
-date: "2019-12-02T00:00:00Z"
+date: "2023-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -14,11 +14,11 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: (submitted)
-publication_short: (submitted)
+publication: In *Journal of Machine Learning Research*
+publication_short: In *JMLR*
 
 abstract: Bayesian inference problems require sampling or approximating high-dimensional probability distributions. The focus of this paper is on the recently introduced Stein variational gradient descent methodology, a class of algorithms that rely on iterated steepest descent steps with respect to a reproducing kernel Hilbert space norm. This construction leads to interacting particle systems, the mean-field limit of which is a gradient flow on the space of probability distributions equipped with a certain geometrical structure. We leverage this viewpoint to shed some light on the convergence properties of the algorithm, in particular addressing the problem of choosing a suitable positive definite kernel function. Our analysis leads us to considering certain nondifferentiable kernels with adjusted tails. We demonstrate significant performs gains of these in various numerical experiments.
 
